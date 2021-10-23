@@ -1,9 +1,7 @@
-import ParallelCoordinates from "../components/ParallelCoordinates";
-
 const Home = () => {
   return (
     <>
-      <ParallelCoordinates />
+      <h1>Home Page</h1>
     </>
   );
 };
