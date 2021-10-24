@@ -4,7 +4,7 @@ window.addEventListener("load", function () {
   // Logo
   const container = document.querySelector("div.d-flex");
   const logo = document.querySelector("img");
-  logo.src = "images/logo.svg";
+  logo.src = "/logo.svg";
   logo.alt = "Griffin EnerG";
   const logo_link = document.createElement("a");
   logo_link.href = Griffin_EnerG;
