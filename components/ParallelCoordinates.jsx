@@ -1,7 +1,7 @@
 const ParallelCoordinates = () => {
   return (
     <div className="container">
-      <iframe className="ifram" src="/pc.html"></iframe>
+      <iframe className="ifram" src="/hiplot.html"></iframe>
     </div>
   );
 };
