@@ -1,7 +1,10 @@
 const ParallelCoordinates = () => {
   return (
     <div className="container">
-      <iframe className="ifram" src="/hiplot.html"></iframe>
+      <iframe
+        className="ifram"
+        src="https://vigilant-joliot-bf3c7f.netlify.app"
+      ></iframe>
     </div>
   );
 };
